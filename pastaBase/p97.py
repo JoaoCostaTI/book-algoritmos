@@ -45,11 +45,3 @@ def pega_pagina(url):
         return dados
     
 # Retorne 1 para qualquer entrada
-
-valores = {}
-
-def retorna(valor):
-    if valor == string:
-        print(1)
-    
-retorna("joao")
